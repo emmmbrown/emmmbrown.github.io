@@ -1,0 +1,17 @@
+# Site settings
+title: Emily's Data Blog
+header-img: img/home-bg.jpg
+email: ebrown118@gmail.com
+description: "Seeking Answers through Data Science and Visualizations"
+baseurl: ""
+url: "emmmbrown.github.io"
+twitter_username: mlilime
+github_username:  emmmbrown
+facebook_username:  emilybrown118
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

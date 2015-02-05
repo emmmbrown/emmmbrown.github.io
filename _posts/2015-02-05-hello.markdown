@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "Hello, world."
+subtitle:   "Getting this thing off of the ground."
+date:       2015-02-05 14:30:00
+author:     "Emily"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p> Hey there. I've decided to start a blog chronicling my explorations in data science
+and visualizations. </p>
+
+<p>I've built this blog with the 
+<a href="https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll">Clean Bootstrap Theme for Jekyll</a>
+and GitHub pages. I'm going to try and use only images that I've taken, but I'll note
+when they're not. For instance, this image is from <a href='https://www.flickr.com/photos/nasacommons/'>
+Nasa on the Commons</a> since it was included in the template and I felt it was oddly appropriate. </p>
+
+<p>I've decided my first project will be examining economic inequality in
+Cambodia, since it really struck me while I was there a year ago. </p>
+
+<p> I'll keep tweaking this as time goes along; it's not quite perfect yet. </p>
+
+<p>Thanks for checking this out! </p>

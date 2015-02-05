@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily&#39;s Data Blog</title>
+    <description>Seeking Answers through Data Science and Visualizations</description>
+    <link>emmmbrown.github.io/</link>
+    <atom:link href="emmmbrown.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 05 Feb 2015 15:44:14 -0800</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2015 15:44:14 -0800</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Hello, world.</title>
+        <description>&lt;p&gt; Hey there. I&#39;ve decided to start a blog chronicling my explorations in data science
+and visualizations. &lt;/p&gt;
+
+&lt;p&gt;I&#39;ve built this blog with the 
+&lt;a href=&quot;https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll&quot;&gt;Clean Bootstrap Theme for Jekyll&lt;/a&gt;
+and GitHub pages. I&#39;m going to try and use only images that I&#39;ve taken, but I&#39;ll note
+when they&#39;re not. For instance, this image is from &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;
+Nasa on the Commons&lt;/a&gt; since it was included in the template and I felt it was oddly appropriate. &lt;/p&gt;
+
+&lt;p&gt;I&#39;ve decided my first project will be examining economic inequality in
+Cambodia, since it really struck me while I was there a year ago. &lt;/p&gt;
+
+&lt;p&gt; I&#39;ll keep tweaking this as time goes along; it&#39;s not quite perfect yet. &lt;/p&gt;
+
+&lt;p&gt;Thanks for checking this out! &lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Feb 2015 06:30:00 -0800</pubDate>
+        <link>emmmbrown.github.io/2015/02/05/hello/</link>
+        <guid isPermaLink="true">emmmbrown.github.io/2015/02/05/hello/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
