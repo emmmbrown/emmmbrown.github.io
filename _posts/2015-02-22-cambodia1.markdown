@@ -12,7 +12,8 @@ a 5k, and translating my skills in R to Python so it's taken a little while.
 Also, I can't get the "Contact Me" form on this website to work, so... I'm workin' on it.</p>
 
 <p>This post is going to focus on the World Bank World Development Indicators 
-database. I've saved all of my work in an iPython Notebook.</p>
+database. I've saved all of my work in an <a href='https://github.com/emmmbrown/emmmbrown.github.io/blob/master/notebooks/Cambodia.ipynb'>iPython Notebook</a>
+if you want to look at the data and mess around with it, and here it is on <a href='http://nbviewer.ipython.org/github/emmmbrown/emmmbrown.github.io/blob/master/notebooks/Cambodia.ipynb'>nbviewer</a>.</p>
 
 <p>So, you might ask, why Cambodia? I was backpacking throughout SE Asia a year ago, and 
 Cambodia left a lasting impression on me. Not necessarily positive - if you asked, I'd

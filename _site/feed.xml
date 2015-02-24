@@ -5,8 +5,8 @@
     <description>Seeking Answers through Data Science and Visualizations</description>
     <link>emmmbrown.github.io/</link>
     <atom:link href="emmmbrown.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 24 Feb 2015 15:25:30 -0800</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2015 15:25:30 -0800</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2015 15:30:38 -0800</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2015 15:30:38 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -16,7 +16,8 @@ a 5k, and translating my skills in R to Python so it&#39;s taken a little while.
 Also, I can&#39;t get the &quot;Contact Me&quot; form on this website to work, so... I&#39;m workin&#39; on it.&lt;/p&gt;
 
 &lt;p&gt;This post is going to focus on the World Bank World Development Indicators 
-database. I&#39;ve saved all of my work in an iPython Notebook.&lt;/p&gt;
+database. I&#39;ve saved all of my work in an &lt;a href=&quot;https://github.com/emmmbrown/emmmbrown.github.io/blob/master/notebooks/Cambodia.ipynb&quot;&gt;iPython Notebook&lt;/a&gt;
+if you want to look at the data and mess around with it, and here it is on &lt;a href=&quot;http://nbviewer.ipython.org/github/emmmbrown/emmmbrown.github.io/blob/master/notebooks/Cambodia.ipynb&quot;&gt;nbviewer&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;So, you might ask, why Cambodia? I was backpacking throughout SE Asia a year ago, and 
 Cambodia left a lasting impression on me. Not necessarily positive - if you asked, I&#39;d
